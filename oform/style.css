@@ -1,0 +1,62 @@
+.type{
+	width: 300px; 
+	height: 300px; 
+	text-align: center; 
+	border:1px solid black;
+	display: inline-block;
+	margin: 0 10px;
+	color: white;
+	font-weight: bold;
+	font-size:200%;
+	text-shadow: black 0 0 2px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+.models{
+
+	width: 200px; 
+	height: 200px; 
+	text-align: center; 
+	border:1px solid black;
+	display: inline-block;
+	margin: 10px 10px;
+	color: black;
+	font-weight: bold;
+	text-shadow: white 0 0 2px;
+	padding: 25px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	}
+	
+.types{
+	padding: 40px;
+}
+
+.name{
+	font-size: 26px;
+	font-weight: bold;
+	margin: 10px 0; 
+}
+
+table {
+
+	padding: 1px;
+}
+
+
+	a:link {
+		text-decoration: none; /* Убирает подчеркивание для ссылок */
+		color: black;
+	} 
+	a:visited { 
+		text-decoration: none; 
+		color: black;
+	} 
+	a:active { 
+		text-decoration: none; 
+	}
+	a:hover {
+		color: red; /* Цвет ссылки */
+   	} 
